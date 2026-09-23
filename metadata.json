@@ -1,0 +1,6 @@
+{
+  "name": "JátékKészítő Stúdió",
+  "description": "Interaktív 2D platformer játékszerkesztő, pixel art rajzoló és valós idejű fizikamotor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
